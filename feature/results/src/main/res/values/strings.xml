@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_your_bot">Share your bot</string>
+    <string name="grant_storage_permission">Grant storage permission</string>
+    <string name="to_save_your_bot_to_the_device_you_need_to_grant_storage_permission">To save your bot to the device, you need to grant storage permission.</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="download_complete">Download complete</string>
+    <string name="resultant_android_bot">Resultant Android bot</string>
+    <string name="original_image">Original image</string>
+    <string name="my_bot_is_wearing">My bot is wearing </string>
+    <string name="photo">Photo</string>
+    <string name="bot">Bot</string>
+    <string name="share_text">Share your customized Android bot</string>
+    <string name="download_bot">Download bot</string>
+    <string name="prompt">Prompt</string>
+    <string-array name="list_compliments">
+        <item>You are in your bot era!</item>
+        <item>Say hello to mini you!</item>
+        <item>Wow, look at that glow up!</item>
+        <item>Wow. Spitting image.</item>
+        <item>Dressed to impress!</item>
+        <item>Hey good looking!</item>
+    </string-array>
+</resources>

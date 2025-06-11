@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902784403351",
+    "project_id": "proandroid-2220f",
+    "storage_bucket": "proandroid-2220f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902784403351:android:39cb81492c254c40fbe6d2",
+        "android_client_info": {
+          "package_name": "com.muhammad.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEyPD_-0bJr74YXBdF1XcSJOzNJeS_60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
